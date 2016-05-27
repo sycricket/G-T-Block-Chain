@@ -1,2 +1,3 @@
 # G-T-Block-Chain
-Trusted Grade &amp; Transcript System using Block Chain methods
+
+Trusted Grade Record and Transcript System using Block Chain methods. The systems uses a transaction record procedure similar to the transaction ledger of Bit Coin.
